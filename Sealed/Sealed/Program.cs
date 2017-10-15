@@ -23,25 +23,18 @@ namespace Sealed
             }
         }
 
-    public class AAInfo : JHInfo
-    {
-
-
-
-    }
-
-    class Program
-    {
-
-        static void Main(string[] args)
+        class Program
         {
 
-            JHInfo jhinfo = new JHInfo();
-            jhinfo.Code = "JH001";
-            jhinfo.Name = "test";
-            jhinfo.ShowInfo();
-            Console.ReadLine();
+            static void Main(string[] args)
+            {
 
-        }
+                JHInfo jhinfo = new JHInfo();
+                jhinfo.Code = "JH001";
+                jhinfo.Name = "test";
+                jhinfo.ShowInfo();
+                Console.ReadLine();
+
+            }
     }
 }
