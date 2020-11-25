@@ -1,0 +1,7 @@
+D:\Git_repository_Heidi\Sealed\Sealed\bin\Debug\Sealed.exe.config
+D:\Git_repository_Heidi\Sealed\Sealed\bin\Debug\Sealed.exe
+D:\Git_repository_Heidi\Sealed\Sealed\bin\Debug\Sealed.pdb
+D:\Git_repository_Heidi\Sealed\Sealed\obj\Debug\Sealed.csprojAssemblyReference.cache
+D:\Git_repository_Heidi\Sealed\Sealed\obj\Debug\Sealed.csproj.CoreCompileInputs.cache
+D:\Git_repository_Heidi\Sealed\Sealed\obj\Debug\Sealed.exe
+D:\Git_repository_Heidi\Sealed\Sealed\obj\Debug\Sealed.pdb

@@ -28,12 +28,12 @@ namespace Sealed
 
             static void Main(string[] args)
             {
-
+                //test
                 JHInfo jhinfo = new JHInfo();
                 jhinfo.Code = "JH001";
                 jhinfo.Name = "test";
                 jhinfo.ShowInfo();
-                Console.ReadLine();
+                //Console.ReadLine();
 
             }
     }
