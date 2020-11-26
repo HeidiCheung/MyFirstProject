@@ -28,7 +28,7 @@ namespace Sealed
 
             static void Main(string[] args)
             {
-                //test 3
+                //test 4
                 JHInfo jhinfo = new JHInfo();
                 jhinfo.Code = "JH001";
                 jhinfo.Name = "test";
