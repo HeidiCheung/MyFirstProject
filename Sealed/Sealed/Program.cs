@@ -30,6 +30,7 @@ namespace Sealed
             {
                 //test 4
                 JHInfo jhinfo = new JHInfo();
+                //merge
                 jhinfo.Code = "JH001";
                 jhinfo.Name = "test";
                 jhinfo.ShowInfo();
